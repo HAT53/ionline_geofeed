@@ -5,7 +5,7 @@
 #
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
 # Last modified: Wed, 17 Apr 2024 20:09:35 GMT
-# Number of records: 40
+# Number of records: 38
 # ZA
 154.65.88.0/21,ZA,ZA-GP,Johannesburg,,
 154.65.88.0/24,ZA,ZA-GP,Johannesburg,,
@@ -22,8 +22,6 @@
 154.73.122.0/24,ZA,ZA-GP,Johannesburg,,
 154.73.123.0/24,ZA,ZA-GP,Johannesburg,,
 165.16.224.0/20,ZA,ZA-GP,Johannesburg,,
-165.16.224.0/24,ZA,ZA-GP,Johannesburg,,
-165.16.223.0/24,ZA,ZA-GP,Johannesburg,,
 165.16.224.0/24,ZA,ZA-GP,Johannesburg,,
 165.16.225.0/24,ZA,ZA-GP,Johannesburg,,
 165.16.226.0/24,ZA,ZA-GP,Johannesburg,,
