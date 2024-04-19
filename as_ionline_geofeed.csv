@@ -5,7 +5,7 @@
 #
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
 # Last modified: Wed, 17 Apr 2024 20:09:35 GMT
-# Number of records: 38
+# Number of records: 33
 # ZA
 154.65.88.0/24,ZA,ZA-GP,Johannesburg,,
 154.65.89.0/24,ZA,ZA-GP,Johannesburg,,
@@ -41,5 +41,5 @@
 213.198.7.0/24,GB,GB-ENG,London,,
 # US
 140.174.38.0/24,US,US-TX,Dallas,,
-140.174.39.0/23,US,US-TX,Dallas,,
+140.174.39.0/24,US,US-TX,Dallas,,
 #END
